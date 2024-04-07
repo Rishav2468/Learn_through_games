@@ -1,0 +1,9 @@
+AddType application/javascript .js
+AddType application/wasm .wasm
+
+
+
+
+# HTID:21493870: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:21493870:
